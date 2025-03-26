@@ -55,8 +55,16 @@
 
 ###
 
-<br clear="both">
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
-<img src="https://raw.githubusercontent.com/achrefdhibi/achrefdhibi/output/snake.svg" alt="Snake animation" />
 
-###
+
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
