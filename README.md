@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Achref Dhibi and I'm a Data Scientist From Tunisia</h2>
+<h2 align="left">Hi 👋! I'm Achref Dhibi, an AI Engineer based in Tunisia</h2>
 
 ###
 
